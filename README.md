@@ -1,4 +1,4 @@
-# Workfrow
+# Workflow
 
 
 > This document is written to help you with your workflow.
