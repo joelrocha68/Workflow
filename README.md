@@ -61,7 +61,13 @@ $ g stash apply
 $ d ps
 ```
 
-If it's not running, then start the container
+> list all containers
+
+```bash
+$ d ps -a
+```
+
+> If it's not running, then start the container
 
 ```bash
 $ d start <nome ou hash do container>
