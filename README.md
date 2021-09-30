@@ -23,6 +23,8 @@ $ g stash && g co master
 
 ### Update your local repository
 
+> OBS: Do this on master
+
 ```bash
 $ g pull upstream master
 ```
@@ -44,6 +46,8 @@ $ ant all
 $ g co <nome da branch>
 ```
 Now that everything is up to date, bring back your saved changes.
+
+> OBS: Do this on your branch
 
 ```bash
 $ g stash apply
