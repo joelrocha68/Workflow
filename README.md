@@ -68,7 +68,10 @@ $ d start <nome ou hash do container>
 ```
 # Run the catalina
 
-path 
+> Open another terminal flap to run the catalina.
+
+catalina's path
+
 > cd dev/bundles/master/tomcat-9.0.53/bin
 
 ```bash
